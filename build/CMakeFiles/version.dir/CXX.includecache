@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../version/version.h
+
+/Users/xieyuandong/Workspace/cpp/cmake-with-git-metadata/main.cpp
+iostream
+-
+version.c
+/Users/xieyuandong/Workspace/cpp/cmake-with-git-metadata/version.c
+
+/Users/xieyuandong/Workspace/cpp/cmake-with-git-metadata/version.c
+version.h
+/Users/xieyuandong/Workspace/cpp/cmake-with-git-metadata/version.h
+
